@@ -2,7 +2,7 @@
 
 > [Native promises](https://nodejs.org/dist/latest-v8.x/docs/api/util.html#util_util_promisify_original), [Co generators](https://github.com/tj/co), [Native Async/Await](https://nodejs.org/en/blog/release/v8.0.0/) and [Bluebird promises](http://bluebirdjs.com/docs/getting-started.html) comparative [benchmark](https://benchmarkjs.com/). 
 
-__Note:__ These are __not__ _"[Non plus ultra](https://de.wikipedia.org/wiki/Non_plus_ultra)"_ benchmarks but can give us an idea about the Node/V8 performance improvements on time. So, feel free to contribute.
+__Note:__ These are __not__ _"[Non plus ultra](https://en.wikipedia.org/wiki/Plus_ultra)"_ benchmarks but can give us an idea about the Node/V8 performance improvements on time. So, feel free to contribute.
 
 ## Usage
 
